@@ -1,0 +1,5 @@
+ticker,name,sector,revenue_growth,gross_margin,eps_growth,debt_to_equity,free_cash_flow_margin
+NOVA,NovaGrid Systems,Clean Energy Infrastructure,31.4,42.0,18.8,0.41,11.7
+AURA,Aura Health Analytics,Healthcare AI,24.1,55.5,12.0,0.28,9.8
+ORBT,OrbitPay Technologies,Fintech,15.7,38.2,8.6,0.76,6.1
+KRYN,Kryon Robotics,Industrial Automation,19.5,33.4,-3.1,1.18,-2.7
