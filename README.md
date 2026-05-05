@@ -128,30 +128,6 @@ Use this start command:
 uvicorn api:app --host 0.0.0.0 --port $PORT
 ```
 
-## Resume Bullets
-
-- Built FinSight AI, a multi-agent financial intelligence platform using Streamlit, FastAPI, RAG, and quantitative signal models to generate explainable BUY / HOLD / SELL recommendations.
-- Designed five-agent workflow for fundamentals research, news sentiment, technical indicators, filing retrieval, and final investment-signal orchestration.
-- Implemented production-style API serving with typed schemas, confidence scoring, risk flags, and grounded document answers for company analysis.
-
-## LinkedIn Post
-
-I built FinSight AI, a multi-agent financial intelligence platform that simulates how an AI analyst team could evaluate companies.
-
-The system uses five agents:
-
-- Research Agent for fundamentals
-- News Agent for sentiment shifts
-- Quant Agent for RSI, momentum, volatility, and trend
-- RAG Agent for filing-grounded Q&A
-- Orchestrator Agent for final BUY / HOLD / SELL signal
-
-Tech stack: Python, Streamlit, FastAPI, Pandas, Scikit-learn, Plotly, RAG, agent orchestration.
-
-What makes it different from a normal stock dashboard: every recommendation is explainable, grounded in retrieved filing context, and served through both a dashboard and an API.
-
-#AI #GenAI #MachineLearning #Python #Finance #RAG #FastAPI #Streamlit
-
 ## Disclaimer
 
 This project is for education and portfolio demonstration only. It is not financial advice.
